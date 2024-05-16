@@ -1,0 +1,18 @@
+* What is Data Structutre? *
+
+What is a program ? 
+-> Set of  instructions that perform some operaaations on data.
+
+What is Data Structure ?
+-> When a program is dealing with data, then how it will organise it in main memory is defined by Data Structure.
+
+* Various Data Structures *
+
+Physical Data Structures
+-> Array & Linked list 
+
+Logical Data Structure 
+-> Stack, Queue, Tree, Graph, Hashing 
+------- In some languages, these data structure are directly available --------
+
+
